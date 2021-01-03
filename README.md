@@ -1,1 +1,3 @@
 # aus-devops-group
+
+An interest group that shares DevOps knowledge...
